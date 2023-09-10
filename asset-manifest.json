@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/photoalbum-resume/static/css/main.0fc6de4f.css",
+    "main.js": "/photoalbum-resume/static/js/main.0a47d793.js",
+    "static/media/album_3.jpg": "/photoalbum-resume/static/media/album_3.e2ed5fb7b943aad2252c.jpg",
+    "static/media/error.png": "/photoalbum-resume/static/media/error.f794c0ef17e57bc3cc2b.png",
+    "static/media/logo_4.png": "/photoalbum-resume/static/media/logo_4.3155123b6f6c5f703c73.png",
+    "index.html": "/photoalbum-resume/index.html",
+    "main.0fc6de4f.css.map": "/photoalbum-resume/static/css/main.0fc6de4f.css.map",
+    "main.0a47d793.js.map": "/photoalbum-resume/static/js/main.0a47d793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fc6de4f.css",
+    "static/js/main.0a47d793.js"
+  ]
+}
